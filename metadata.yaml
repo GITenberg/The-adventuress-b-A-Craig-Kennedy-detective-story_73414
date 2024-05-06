@@ -1,0 +1,48 @@
+_repo: The-adventuress-b-A-Craig-Kennedy-detective-story_73414
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Foster, Will
+    aliases:
+    - Foster, William Frederick
+    - Foster, Bill
+    birthdate: 1882
+    deathdate: 1953
+    gutenberg_agent_id: '33952'
+    url: http://www.gutenberg.org/2009/agents/33952
+creator:
+  author:
+    agent_name: Reeve, Arthur B. (Arthur Benjamin)
+    alias: Reeve, Arthur Benjamin
+    birthdate: 1880
+    deathdate: 1936
+    gutenberg_agent_id: '752'
+    url: http://www.gutenberg.org/2009/agents/752
+    wikipedia: https://en.wikipedia.org/wiki/Arthur_B._Reeve
+description: ''
+gutenberg_issued: '2024-04-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73414'
+  lccn: '17030121'
+language: en
+pgterms:marc904: https://hdl.handle.net/2027/osu.32435018284869
+pgterms:marc905: 20230215050659reeve
+pgterms:marc906: '1917'
+pgterms:marc907: US
+production_note: Carol Brown, Tim Lindell and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This book was produced from images made available
+  by the HathiTrust Digital Library.)
+publication_note: '  $aNew York :$bHarper & Brothers, $c1917.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'New York (N.Y.) -- Fiction'
+- !lcsh 'Detective and mystery stories'
+- !lcsh 'Chemistry teachers -- Fiction'
+- !lcsh 'Kennedy, Craig (Fictitious character) -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: 'The adventuress : $b A Craig Kennedy detective story'
+url: http://www.gutenberg.org/ebooks/73414
