@@ -10,6 +10,9 @@ contributor:
     deathdate: 1953
     gutenberg_agent_id: '33952'
     url: http://www.gutenberg.org/2009/agents/33952
+covers:
+- cover_type: archival
+  image_path: 73414-h/images/cover.jpg
 creator:
   author:
     agent_name: Reeve, Arthur B. (Arthur Benjamin)
@@ -20,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/752
     wikipedia: https://en.wikipedia.org/wiki/Arthur_B._Reeve
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73414#The-adventuress-b-A-Craig-Kennedy-detective-story
 gutenberg_issued: '2024-04-17'
 gutenberg_type: Text
 identifiers:
